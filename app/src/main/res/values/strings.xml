@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TriangleFire</string>
+
+    <string-array name="searchCategories">
+        <item>Choose Category</item>
+        <item>Name</item>
+        <item>Gender</item>
+        <item>Age</item>
+        <item>Religion</item>
+    </string-array>
+
+    <string-array name="genderCategories">
+        <item>Choose Gender</item>
+        <item>Female:  F</item>
+        <item>  Male:  M</item>
+    </string-array>
+
+
+    <string-array name="ageRanges">
+        <item>Choose Age Range</item>
+        <item>10 to 19</item>
+        <item>20 to 29</item>
+        <item>30 to 39</item>
+        <item>40 to 49</item>
+        <item>50 to 59</item>
+        <item>60 to 69</item>
+    </string-array>
+
+    <string-array name="religionCategories">
+        <item>Choose Religion</item>
+        <item>Catholic</item>
+        <item>Jewish</item>
+        <item>Muslim</item>
+        <item>Protestant</item>
+    </string-array>
+
+</resources>
